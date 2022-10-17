@@ -11,6 +11,7 @@ defusedxml==0.7.1
 entrypoints==0.3
 folium==0.13.0
 geographiclib==1.52
+geopandas==0.11.1
 geopy==2.2.0
 ipykernel==6.4.1
 ipython==7.27.0
